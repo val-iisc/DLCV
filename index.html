@@ -3,16 +3,43 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
+
+    <article class="post">
+    <h2>Information </h2>
+    <div class = 'entry'>
+      <h5>Instructor: Professor Venkatesh R. Babu </h5>
+      <h5>Classroom Venue: Room Number 202, CDS Department</h5>
+      <h5>Class Timings: To Be added Soon</h5>
+    </div>
+    </article>
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h2>Brief description of the course</h2>
 
       <div class="entry">
-        {{ post.excerpt }}
-      </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+<p>In the recent years, Deep Learning has pushed to boundaries of research in many fields. This course focuses on the application of Deep Learning in the field of Computer Vision. The first half of the course formulates the basics of Deep Learning, which are built on top of various concepts from Image Processing and Machine Learning.  The second half highlights the various flavors of Deep Learning in Computer Vision, such as Generative Models, Recurrent Models, and Deep Reinforcement Learning Models.
+</p>
+      </div>
+      <a href="{{ site.baseurl }}/about" class="read-more">Read More</a>
+
+    <div class = 'entry'>
+    <h2>Prerequisites</h2>
+    <p>Primary crucial prerequisites : Machine Learning and Computer Vision/Image Processing
+    </p><p>Secondary Prerequisites(familiarity preffered): Statistics and Linear Algebra.
+    </p>
+    </div>
     </article>
-  {% endfor %}
+
+    <article class="post">
+    <h2>Course Outcomes</h2>
+    <div class = 'entry'>
+    <ol>
+<li>Thoroughly Understanding the fundamentals of Deep Learning.</li>
+<li>Gaining knowledge of the different modalities of Deep learning currently used.</li>
+<li>Gaining Knowlegde about State-of the art models and Other Important Works in recent years.</li>
+<li>Learning the skills to implement Deep Learning based AI Systems(Use of Multiple packages etc.)</li>
+</ol>
+    </div>
+    </article>
 </div>
