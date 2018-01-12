@@ -38,7 +38,7 @@ permalink: /project_page/
 	</p>
 <p>
 For models, ConvNets have been successfully used in a variety of computer vision tasks. This type of projects would involve understanding the state-of-the-art vision models, and building new models or improving existing models for a vision task. The list below presents some papers on recent advances of ConvNets in the computer vision community.
-
+</p>
 <ul>
       <li><strong>Object recognition</strong>: <a href="http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf">[Krizhevsky et al.]</a>, <a href="http://arxiv.org/abs/1409.0575">[Russakovsky et al.]</a>, <a href="http://arxiv.org/abs/1409.4842">[Szegedy et al.]</a>, <a href="http://arxiv.org/abs/1409.1556">[Simonyan et al.]</a>, <a href="http://arxiv.org/abs/1406.4729">[He et al.]</a></li>
       <li><strong>Object detection</strong>: <a href="http://arxiv.org/abs/1311.2524">[Girshick et al.]</a>, <a href="http://arxiv.org/abs/1312.6229">[Sermanet et al.]</a>, <a href="http://arxiv.org/abs/1312.2249">[Erhan et al.]</a></li>
@@ -68,13 +68,11 @@ We also provide a list of popular computer vision datasets:
         <li><a href="http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/">HMDB-51</a>: a large human motion dataset of 51 action classes</li>
       </ul>
 </p>
-
-<p></p>
 <h2>Grading Policy</h2>
 <p> This information will be added soon. </p>
 <h2> Some Example Projects</h2>
 <p> Projects at VAL, by the present PhD. students will be added to this google doc. <a href="https://docs.google.com/document/d/1kmjYVqfCSuZbUC35R9PjxqcDh4cBdgOqGBmUbv6IrKE/edit?usp=sharing">Link to Google Doc</a></p>
-<p> Projects in a similar course at Stanford has been listed <a href="http://cs231n.stanford.edu/2016/reports.html">CS231n</a>. These can help guide you.
+<p> Projects in a similar course at Stanford has been listed <a href="http://cs231n.stanford.edu/2016/reports.html">here</a>. These can help guide you.
 </p>
 <h2>Acknowledgement</h2>
 <p> Material from <a href="http://cs231n.stanford.edu/">CS231n</a> has been used for preparing this page, as well as the basic course material.</p>
