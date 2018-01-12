@@ -18,9 +18,9 @@ permalink: /project_page/
       </p>
      <p> Projects can be broadly classified of two kinds:
      <ol>
-	<li> <h3>Application</h3>: when Deep learning is used for image processing in other research fields. For example, medical tool segmentation in operation videos.
+	<li> <div style='font-weight: bold;'>Application</div>: when Deep learning is used for image processing in other research fields. For example, medical tool segmentation in operation videos.
         </li>
-        <li> <h3>Improving Deep learning architectures</h3>: when interesting new ideas are introduced to pre-existing models for improving their performance. For example, exploring benefits of higher dimensional convolution in a traditional classification setup.
+        <li> <div style='font-weight: bold;'>Improving Deep learning architectures</div>: when interesting new ideas are introduced to pre-existing models for improving their performance. For example, exploring benefits of higher dimensional convolution in a traditional classification setup.
       </li>
         </ol>
       </p>
