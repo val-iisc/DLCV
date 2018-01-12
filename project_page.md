@@ -18,13 +18,13 @@ permalink: /project_page/
       </p>
      <p> Projects can be broadly classified of two kinds:
      <ol>
-	<li> Application: when Deep learning is used for image processing in other research fields. For example, medical tool segmentation in operation videos.
+	<li> <h3>Application</h3>: when Deep learning is used for image processing in other research fields. For example, medical tool segmentation in operation videos.
         </li>
-        <li> Improving Deep learning architectures: when interesting new ideas are introduced to pre-existing models for improving their performance. For example, exploring benefits of higher dimensional convolution in a traditional classification setup.
+        <li> <h3>Improving Deep learning architectures</h3>: when interesting new ideas are introduced to pre-existing models for improving their performance. For example, exploring benefits of higher dimensional convolution in a traditional classification setup.
       </li>
         </ol>
       </p>
-      <p> <h4> As the course is on using Deep Learning for Computer Vision, the project must visual data in form of pixels etc.</p>
+      <p> <h3> As the course is on using Deep Learning for Computer Vision, the project must visual data in form of pixels etc.</h3></p>
       <h2>Resources </h2>
 	<p> Some resources for selecting projects:<ul>
       <li><a href="https://github.com/kjw0612/awesome-deep-vision">Awesome Deep Vision</a></li>
