@@ -38,7 +38,7 @@ permalink: /project_page/
 	</p>
 <p>
 For models, ConvNets have been successfully used in a variety of computer vision tasks. This type of projects would involve understanding the state-of-the-art vision models, and building new models or improving existing models for a vision task. The list below presents some papers on recent advances of ConvNets in the computer vision community.
-
+</p>
 <ul>
       <li><strong>Object recognition</strong>: <a href="http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf">[Krizhevsky et al.]</a>, <a href="http://arxiv.org/abs/1409.0575">[Russakovsky et al.]</a>, <a href="http://arxiv.org/abs/1409.4842">[Szegedy et al.]</a>, <a href="http://arxiv.org/abs/1409.1556">[Simonyan et al.]</a>, <a href="http://arxiv.org/abs/1406.4729">[He et al.]</a></li>
       <li><strong>Object detection</strong>: <a href="http://arxiv.org/abs/1311.2524">[Girshick et al.]</a>, <a href="http://arxiv.org/abs/1312.6229">[Sermanet et al.]</a>, <a href="http://arxiv.org/abs/1312.2249">[Erhan et al.]</a></li>
@@ -68,8 +68,6 @@ We also provide a list of popular computer vision datasets:
         <li><a href="http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/">HMDB-51</a>: a large human motion dataset of 51 action classes</li>
       </ul>
 </p>
-
-<p></p>
 <h2>Grading Policy</h2>
 <p> This information will be added soon. </p>
 <h2> Some Example Projects</h2>
